@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Airflow runtime artifacts
+airflow_clean/logs/
+airflow_clean/airflow.db
+
+# Local env files
+.env
+*.env
